@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of hamcq/filter-plus.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/filter-plus) or the [upstream repository](https://github.com/HamCQ/flarum-ext-filter-plus).
 
-**0** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/hamcq-filter-plus/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.2.0`
+**4** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/hamcq-filter-plus/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-08-28 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-filter-plus/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-08-28 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-filter-plus/tree/archive/v1.0.1) |
+| `1.0.2` | 2023-10-28 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-filter-plus/tree/archive/v1.0.2) |
+| `1.0.3` | 2023-11-24 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-filter-plus/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/hamcq-filter-plus.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-filter-plus.json)
 
